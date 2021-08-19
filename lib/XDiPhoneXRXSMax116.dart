@@ -27,7 +27,7 @@ class XDiPhoneXRXSMax116 extends StatelessWidget {
                       Container(
                     decoration: BoxDecoration(
                       image: DecorationImage(
-                        image: const AssetImage(''),
+                        image: const AssetImage('images/fondo.png'),
                         fit: BoxFit.fill,
                       ),
                     ),
@@ -41,7 +41,7 @@ class XDiPhoneXRXSMax116 extends StatelessWidget {
                       Container(
                     decoration: BoxDecoration(
                       image: DecorationImage(
-                        image: const AssetImage(''),
+                        image: const AssetImage('images/fondo.png'),
                         fit: BoxFit.fill,
                       ),
                     ),
@@ -77,15 +77,15 @@ class XDiPhoneXRXSMax116 extends StatelessWidget {
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(43.0),
                 image: DecorationImage(
-                  image: const AssetImage(''),
+                  image: const AssetImage('images/logo.jpg'),
                   fit: BoxFit.fill,
                 ),
               ),
             ),
           ),
           Pinned.fromPins(
-            Pin(size: 138.0, middle: 0.5018),
-            Pin(size: 29.0, middle: 0.2422),
+            Pin(size: 150.0, middle: 0.5),
+            Pin(size: 30.0, middle: 0.3),
             child: Text(
               'E.P.E.T Nº20',
               style: TextStyle(
@@ -105,7 +105,7 @@ class XDiPhoneXRXSMax116 extends StatelessWidget {
           ),
           Pinned.fromPins(
             Pin(size: 208.0, middle: 0.5024),
-            Pin(size: 30.0, middle: 0.4122),
+            Pin(size: 30.0, middle: 0.39),
             child: Text(
               'Horarios del Director ',
               style: TextStyle(

@@ -25,7 +25,7 @@ class XDPantalla22 extends StatelessWidget {
                       Container(
                     decoration: BoxDecoration(
                       image: DecorationImage(
-                        image: const AssetImage(''),
+                        image: const AssetImage('images/fondo.png'),
                         fit: BoxFit.fill,
                       ),
                     ),
@@ -39,7 +39,7 @@ class XDPantalla22 extends StatelessWidget {
                       Container(
                     decoration: BoxDecoration(
                       image: DecorationImage(
-                        image: const AssetImage(''),
+                        image: const AssetImage('images/fondo.png'),
                         fit: BoxFit.fill,
                       ),
                     ),
@@ -102,7 +102,7 @@ class XDPantalla22 extends StatelessWidget {
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(74.0),
                 image: DecorationImage(
-                  image: const AssetImage(''),
+                  image: const AssetImage('images/logo.jpg'),
                   fit: BoxFit.fill,
                 ),
               ),

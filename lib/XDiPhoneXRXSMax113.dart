@@ -76,7 +76,7 @@ class XDiPhoneXRXSMax113 extends StatelessWidget {
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(43.0),
                 image: DecorationImage(
-                  image: const AssetImage(''),
+                  image: const AssetImage('images/logo.jpg'),
                   fit: BoxFit.fill,
                 ),
               ),
@@ -146,7 +146,7 @@ class XDiPhoneXRXSMax113 extends StatelessWidget {
                       Container(
                     decoration: BoxDecoration(
                       image: DecorationImage(
-                        image: const AssetImage(''),
+                        image: const AssetImage('images/fondo.png'),
                         fit: BoxFit.fill,
                       ),
                     ),
@@ -160,7 +160,7 @@ class XDiPhoneXRXSMax113 extends StatelessWidget {
                       Container(
                     decoration: BoxDecoration(
                       image: DecorationImage(
-                        image: const AssetImage(''),
+                        image: const AssetImage('images/fondo.png'),
                         fit: BoxFit.fill,
                       ),
                     ),
@@ -310,7 +310,7 @@ class XDiPhoneXRXSMax113 extends StatelessWidget {
           ),
           Pinned.fromPins(
             Pin(size: 150.0, middle: 0.5),
-            Pin(size: 30.0, middle: 0.2422),
+            Pin(size: 30.0, middle: 0.3),
             child: Text(
               'E.P.E.T Nº20',
               style: TextStyle(
@@ -357,7 +357,7 @@ class XDiPhoneXRXSMax113 extends StatelessWidget {
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(27.0),
                   image: DecorationImage(
-                    image: const AssetImage(''),
+                    image: const AssetImage('images/googleicon.jpg'),
                     fit: BoxFit.fill,
                   ),
                 ),
